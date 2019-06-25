@@ -1,0 +1,1 @@
+Test modules are located in the androidTest folder. 
